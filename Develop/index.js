@@ -36,12 +36,14 @@ const questions = [
       type: "input",
       name: "test",
       message: "What is command for test?",
+      default: " npm test"
   
     },
     {
       type: "input",
       name: "installation",
       message: "write command for install dependencies?",
+      default: "npm i"
   
     },
     {
@@ -50,6 +52,12 @@ const questions = [
       message: "What does the user need to know about using repo?",
   
     },
+    {
+        type: "input",
+        name: "contrubuting",
+        message: "What does the user need to know about contributing to the repo?",
+    
+      },
   ];
 
 
