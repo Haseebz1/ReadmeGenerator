@@ -38,6 +38,7 @@ Link for Video demo
 https://drive.google.com/file/d/157kg2fVGPkHjCsxdBio0RLJQcGqS9ioH/view
 
 Link for git hub repo
+https://github.com/Haseebz1/ReadmeGenerator.git
 
 
 
