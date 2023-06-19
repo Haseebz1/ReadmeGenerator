@@ -1,6 +1,10 @@
-# readme.md file generator 
-  ##Description
-  generating readme file dynamically so devolper dont have to manually write every time and which will save time.
+#  
+
+  https://img.shields.io/badge/license-MIT-blue.svg
+
+  
+  ## Description
+  s
 
 
 
@@ -16,16 +20,16 @@
   npm i
 
   ## Usage
-  n/A 
+  d 
 
   ## Test 
    npm test
 
   ## Github
-  haseebz1
+  hh
 
   ## How to contribute
-  N/a
+  d
 
   ## license
   MIT
