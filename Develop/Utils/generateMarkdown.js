@@ -1,6 +1,6 @@
 
   function renderLicenseBadge(license) {
-    return `https://img.shields.io/badge/license-${license}-blue.svg`
+    return `![App license](https://img.shields.io/badge/license-${license}-blue.svg)`
   }
 
 
@@ -25,7 +25,7 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.license)}
 
-  
+
   ## Description
   ${data.description}
 

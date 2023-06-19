@@ -1,10 +1,10 @@
-#  
+# hg 
 
-  https://img.shields.io/badge/license-MIT-blue.svg
+  ![App license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-  
+
   ## Description
-  s
+  
 
 
 
@@ -20,16 +20,16 @@
   npm i
 
   ## Usage
-  d 
+  f 
 
   ## Test 
    npm test
 
   ## Github
-  hh
+  hhh
 
   ## How to contribute
-  d
+  f
 
   ## license
   MIT
